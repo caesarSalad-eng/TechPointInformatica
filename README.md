@@ -1,8 +1,8 @@
-# 🧠 Projeto POO
+# 💻 Projeto POO
 **TechPoint Informática**
 Projeto desenvolvido em Java para a disciplina de **Programação Orientada a Objetos** da FICR.
 
-## 🚀 Objetivo
+## ⛰️ Objetivo
 Aplicar conceitos de **herança, polimorfismo, abstração e encapsulamento** em um sistema de gestão simples.
 
 ## 🧩 Tecnologias
